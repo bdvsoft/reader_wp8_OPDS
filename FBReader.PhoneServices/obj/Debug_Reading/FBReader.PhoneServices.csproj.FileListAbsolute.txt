@@ -1,0 +1,27 @@
+E:\Dev\Mobile\FBReader\src\FBReader.PhoneServices\bin\Debug_Reading\FBReader.PhoneServices.dll
+E:\Dev\Mobile\FBReader\src\FBReader.PhoneServices\bin\Debug_Reading\FBReader.PhoneServices.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.PhoneServices\bin\Debug_Reading\FBReader.Common.dll
+E:\Dev\Mobile\FBReader\src\FBReader.PhoneServices\bin\Debug_Reading\Microsoft.Live.dll
+E:\Dev\Mobile\FBReader\src\FBReader.PhoneServices\bin\Debug_Reading\FBReader.Common.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.PhoneServices\bin\Debug_Reading\Microsoft.Live.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.PhoneServices\obj\Debug_Reading\FBReader.PhoneServices.csprojResolveAssemblyReference.cache
+E:\Dev\Mobile\FBReader\src\FBReader.PhoneServices\obj\Debug_Reading\FBReader.PhoneServices.dll
+E:\Dev\Mobile\FBReader\src\FBReader.PhoneServices\obj\Debug_Reading\FBReader.PhoneServices.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.PhoneServices\bin\Debug_Reading\FBReader.PhoneServices.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.PhoneServices\bin\Debug_Reading\FBReader.PhoneServices.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.PhoneServices\bin\Debug_Reading\FBReader.Common.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.PhoneServices\bin\Debug_Reading\Microsoft.Live.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.PhoneServices\bin\Debug_Reading\FBReader.Common.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.PhoneServices\bin\Debug_Reading\Microsoft.Live.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.PhoneServices\obj\Debug_Reading\FBReader.PhoneServices.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.PhoneServices\obj\Debug_Reading\FBReader.PhoneServices.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.PhoneServices\obj\Debug_Reading\FBReader.PhoneServices.pdb
+C:\WP 8 opds reader\FBReader.PhoneServices\bin\Debug_Reading\FBReader.PhoneServices.dll
+C:\WP 8 opds reader\FBReader.PhoneServices\bin\Debug_Reading\FBReader.PhoneServices.pdb
+C:\WP 8 opds reader\FBReader.PhoneServices\bin\Debug_Reading\FBReader.Common.dll
+C:\WP 8 opds reader\FBReader.PhoneServices\bin\Debug_Reading\Microsoft.Live.dll
+C:\WP 8 opds reader\FBReader.PhoneServices\bin\Debug_Reading\FBReader.Common.pdb
+C:\WP 8 opds reader\FBReader.PhoneServices\bin\Debug_Reading\Microsoft.Live.pdb
+C:\WP 8 opds reader\FBReader.PhoneServices\obj\Debug_Reading\FBReader.PhoneServices.csprojResolveAssemblyReference.cache
+C:\WP 8 opds reader\FBReader.PhoneServices\obj\Debug_Reading\FBReader.PhoneServices.dll
+C:\WP 8 opds reader\FBReader.PhoneServices\obj\Debug_Reading\FBReader.PhoneServices.pdb

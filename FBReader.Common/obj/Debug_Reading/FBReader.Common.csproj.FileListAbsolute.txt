@@ -1,0 +1,21 @@
+E:\Dev\Mobile\FBReader\src\FBReader.Common\bin\Debug_Reading\FBReader.Common.dll
+E:\Dev\Mobile\FBReader\src\FBReader.Common\bin\Debug_Reading\FBReader.Common.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.Common\bin\Debug_Reading\Microsoft.Live.dll
+E:\Dev\Mobile\FBReader\src\FBReader.Common\bin\Debug_Reading\Microsoft.Live.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.Common\obj\Debug_Reading\FBReader.Common.dll
+E:\Dev\Mobile\FBReader\src\FBReader.Common\obj\Debug_Reading\FBReader.Common.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.Common\obj\Debug_Reading\FBReader.Common.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.Common\bin\Debug_Reading\FBReader.Common.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.Common\bin\Debug_Reading\FBReader.Common.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.Common\bin\Debug_Reading\Microsoft.Live.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.Common\bin\Debug_Reading\Microsoft.Live.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.Common\obj\Debug_Reading\FBReader.Common.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.Common\obj\Debug_Reading\FBReader.Common.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.Common\obj\Debug_Reading\FBReader.Common.csprojResolveAssemblyReference.cache
+C:\WP 8 opds reader\FBReader.Common\bin\Debug_Reading\FBReader.Common.dll
+C:\WP 8 opds reader\FBReader.Common\bin\Debug_Reading\FBReader.Common.pdb
+C:\WP 8 opds reader\FBReader.Common\bin\Debug_Reading\Microsoft.Live.dll
+C:\WP 8 opds reader\FBReader.Common\bin\Debug_Reading\Microsoft.Live.pdb
+C:\WP 8 opds reader\FBReader.Common\obj\Debug_Reading\FBReader.Common.csprojResolveAssemblyReference.cache
+C:\WP 8 opds reader\FBReader.Common\obj\Debug_Reading\FBReader.Common.dll
+C:\WP 8 opds reader\FBReader.Common\obj\Debug_Reading\FBReader.Common.pdb

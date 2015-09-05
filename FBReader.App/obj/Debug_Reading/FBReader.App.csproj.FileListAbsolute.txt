@@ -1,0 +1,495 @@
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Resources\Images\WVGA\AppLogo.png
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Resources\Images\WVGA\DesignBookCover.jpg
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Resources\Images\WVGA\MainPagePanoramaBackround.jpg
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Resources\Images\WXGA\AppLogo.png
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Resources\Images\WXGA\DesignBookCover.jpg
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Resources\Images\WXGA\MainPagePanoramaBackround.jpg
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.App.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.App.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\AppManifest.xaml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Properties\WMAppManifest.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader_Debug_Reading_AnyCPU.xap
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Caliburn.Micro.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Caliburn.Micro.Extensions.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.Background.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.AppServices.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Common.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.DataModel.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Localization.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.PhoneServices.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Render.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Settings.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Tokenizer.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.WebClient.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Microsoft.Phone.Controls.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\NavigationCoercion.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\System.Windows.Interactivity.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Data.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Input.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Primitives.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Core.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Microsoft.Live.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\System.Net.Http.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FlurryWP8SDK.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\SharpZipLib.WindowsPhone7.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\System.Net.Http.Primitives.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.IO.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\HtmlAgilityPack.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Hyphen.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\ExCss.WP.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Data.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\System.Xml.XPath.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Caliburn.Micro.Extensions.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Caliburn.Micro.Extensions.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Caliburn.Micro.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Caliburn.Micro.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.AppServices.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Common.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.DataModel.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Localization.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.PhoneServices.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Render.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Settings.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Tokenizer.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.WebClient.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.Background.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.Background.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Data.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Data.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Input.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Input.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Primitives.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Primitives.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Core.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Core.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Microsoft.Live.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\System.Net.Http.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\System.Net.Http.Primitives.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.IO.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\HtmlAgilityPack.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\HtmlAgilityPack.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\FBReader.Hyphen.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Data.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\Telerik.Windows.Data.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\System.Xml.XPath.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\ru\FBReader.Localization.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\de\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\en\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\es\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\fr\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\it\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\ja\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\ko\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\ru\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\de\System.Xml.XPath.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\es\System.Xml.XPath.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\fr\System.Xml.XPath.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\it\System.Xml.XPath.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\ja\System.Xml.XPath.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\ko\System.Xml.XPath.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\ru\System.Xml.XPath.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\zh-Hans\System.Xml.XPath.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\bin\Debug_Reading\zh-Hant\System.Xml.XPath.resources.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\FBReader.App.csprojResolveAssemblyReference.cache
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\App.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Controls\ApplicationBar\FBReaderApplicationBar.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Controls\SelectionActionsControl.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Controls\ThreePagePanel.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Controls\TranslationControl.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Controls\HighlightedTextBlockControl.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Controls\BookTile.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\AllCatalogsSearchPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\BookInfoPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Controls\ColorSelectorControl.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Controls\MarginGridControl.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Controls\SearchResultItemControl.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\AddCatalogPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\BookmarkSearchPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\AuthorizationPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\CatalogPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\CatalogSearchPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\ContentsPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\AllBooksBookmarksView.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\BookmarksPivot.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\ThisBookBookmarksView.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\DownloadListPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\EditBookPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\MainHub\CatalogsView.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\MainHub\UserLibraryView.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\MainPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\ReadPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\SearchInBookPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\SearchPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\AboutView.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\HyphenationSettingPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\CSSSettingPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\FlippingSettingPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\FontSettingPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\FormattingView.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\GeneralView.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\LockScreenSettingPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\MarginsSettingPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\MenuSettingPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\OrientationSettingPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\ScreenBrightnessPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\SettingsPivot.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Controls\TitlePanelControl.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\ThemeSettingPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\UserLibraryPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\WebBrowserPage.g.cs
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\FBReader.App.g.resources
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\FBReader.App.dll
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\FBReader.App.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\XapCacheFile.xml
+E:\Dev\Mobile\FBReader\src\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\CopsPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Resources\Images\WVGA\AppLogo.png
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Resources\Images\WVGA\DesignBookCover.jpg
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Resources\Images\WVGA\MainPagePanoramaBackround.jpg
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Resources\Images\WXGA\AppLogo.png
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Resources\Images\WXGA\DesignBookCover.jpg
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Resources\Images\WXGA\MainPagePanoramaBackround.jpg
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.App.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.App.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\AppManifest.xaml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Properties\WMAppManifest.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader_Debug_Reading_AnyCPU.xap
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Caliburn.Micro.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Caliburn.Micro.Extensions.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.Background.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.AppServices.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Common.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.DataModel.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Localization.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.PhoneServices.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Render.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Settings.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Tokenizer.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.WebClient.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Microsoft.Phone.Controls.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\NavigationCoercion.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\System.Windows.Interactivity.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Data.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Input.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Primitives.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Core.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Microsoft.Live.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\System.Net.Http.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FlurryWP8SDK.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\SharpZipLib.WindowsPhone7.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\System.Net.Http.Primitives.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.IO.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\HtmlAgilityPack.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Hyphen.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ExCss.WP.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Data.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\System.Xml.XPath.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Caliburn.Micro.Extensions.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Caliburn.Micro.Extensions.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Caliburn.Micro.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Caliburn.Micro.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.AppServices.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Common.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.DataModel.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Localization.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.PhoneServices.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Render.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Settings.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Tokenizer.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.WebClient.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.Background.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.Background.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Data.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Data.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Input.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Input.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Core.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Core.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Microsoft.Live.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\System.Net.Http.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\System.Net.Http.Primitives.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.IO.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\HtmlAgilityPack.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\HtmlAgilityPack.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\FBReader.Hyphen.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Data.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Telerik.Windows.Data.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ru\FBReader.Localization.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\de\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\en\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\es\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\it\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\de\System.Xml.XPath.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\es\System.Xml.XPath.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\fr\System.Xml.XPath.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\it\System.Xml.XPath.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ja\System.Xml.XPath.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ko\System.Xml.XPath.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ru\System.Xml.XPath.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\zh-Hans\System.Xml.XPath.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\zh-Hant\System.Xml.XPath.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\FBReader.App.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\App.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Controls\ApplicationBar\FBReaderApplicationBar.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Controls\SelectionActionsControl.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Controls\ThreePagePanel.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Controls\TranslationControl.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Controls\HighlightedTextBlockControl.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Controls\BookTile.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\AllCatalogsSearchPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\BookInfoPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Controls\ColorSelectorControl.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Controls\MarginGridControl.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Controls\SearchResultItemControl.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\AddCatalogPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\BookmarkSearchPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\AuthorizationPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\CatalogPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\CatalogSearchPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\CopsPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\ContentsPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\AllBooksBookmarksView.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\BookmarksPivot.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\ThisBookBookmarksView.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\DownloadListPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\EditBookPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\MainHub\CatalogsView.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\MainHub\UserLibraryView.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\MainPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\ReadPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\SearchInBookPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\SearchPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\AboutView.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\HyphenationSettingPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\CSSSettingPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\FlippingSettingPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\FontSettingPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\FormattingView.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\GeneralView.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\LockScreenSettingPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\MarginsSettingPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\MenuSettingPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\OrientationSettingPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\ScreenBrightnessPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\SettingsPivot.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Controls\TitlePanelControl.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\ThemeSettingPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\UserLibraryPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\Views\Pages\WebBrowserPage.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\FBReader.App.g.resources
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\FBReader.App.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\FBReader.App.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\XapCacheFile.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Microsoft.Expression.Interactions.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\Views\Pages\Positive-256.png
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\RSS.g.cs
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\System.ServiceModel.Syndication.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\de\System.ServiceModel.Syndication.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\es\System.ServiceModel.Syndication.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\fr\System.ServiceModel.Syndication.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\it\System.ServiceModel.Syndication.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ja\System.ServiceModel.Syndication.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ko\System.ServiceModel.Syndication.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\ru\System.ServiceModel.Syndication.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\zh-Hans\System.ServiceModel.Syndication.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\bin\Debug_Reading\zh-Hant\System.ServiceModel.Syndication.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.App\obj\Debug_Reading\WindowsPhoneControl1.g.cs
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Resources\Images\WVGA\AppLogo.png
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Resources\Images\WVGA\DesignBookCover.jpg
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Resources\Images\WVGA\MainPagePanoramaBackround.jpg
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Resources\Images\WXGA\AppLogo.png
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Resources\Images\WXGA\DesignBookCover.jpg
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Resources\Images\WXGA\MainPagePanoramaBackround.jpg
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Views\Pages\Positive-256.png
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.App.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.App.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\AppManifest.xaml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Properties\WMAppManifest.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader_Debug_Reading_AnyCPU.xap
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Caliburn.Micro.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Caliburn.Micro.Extensions.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.Background.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.AppServices.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Common.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.DataModel.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Localization.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.PhoneServices.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Render.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Settings.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Tokenizer.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.WebClient.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Microsoft.Expression.Interactions.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Microsoft.Phone.Controls.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\NavigationCoercion.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\System.ServiceModel.Syndication.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\System.Windows.Interactivity.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Data.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Input.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Primitives.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Core.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Microsoft.Live.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\System.Net.Http.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FlurryWP8SDK.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\SharpZipLib.WindowsPhone7.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\System.Net.Http.Primitives.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.IO.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\HtmlAgilityPack.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Hyphen.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ExCss.WP.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Data.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\System.Xml.XPath.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Caliburn.Micro.Extensions.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Caliburn.Micro.Extensions.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Caliburn.Micro.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Caliburn.Micro.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.AppServices.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Common.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.DataModel.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Localization.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.PhoneServices.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Render.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Settings.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Tokenizer.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.WebClient.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.Background.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Cimbalino.Phone.Toolkit.Background.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\System.ServiceModel.Syndication.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Data.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Data.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Input.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Input.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Primitives.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Controls.Primitives.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Core.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Core.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Microsoft.Live.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\System.Net.Http.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\System.Net.Http.Primitives.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.IO.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\HtmlAgilityPack.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\HtmlAgilityPack.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader.Hyphen.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Data.pdb
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Telerik.Windows.Data.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\System.Xml.XPath.xml
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ru\FBReader.Localization.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\de\Microsoft.Expression.Interactions.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\en\Microsoft.Expression.Interactions.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\es\Microsoft.Expression.Interactions.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\fr\Microsoft.Expression.Interactions.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\it\Microsoft.Expression.Interactions.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ja\Microsoft.Expression.Interactions.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ko\Microsoft.Expression.Interactions.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ru\Microsoft.Expression.Interactions.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\de\System.ServiceModel.Syndication.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\es\System.ServiceModel.Syndication.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\fr\System.ServiceModel.Syndication.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\it\System.ServiceModel.Syndication.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ja\System.ServiceModel.Syndication.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ko\System.ServiceModel.Syndication.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ru\System.ServiceModel.Syndication.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\zh-Hans\System.ServiceModel.Syndication.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\zh-Hant\System.ServiceModel.Syndication.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\de\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\en\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\es\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\fr\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\it\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ja\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ko\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ru\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\de\System.Xml.XPath.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\es\System.Xml.XPath.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\fr\System.Xml.XPath.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\it\System.Xml.XPath.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ja\System.Xml.XPath.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ko\System.Xml.XPath.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\ru\System.Xml.XPath.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\zh-Hans\System.Xml.XPath.resources.dll
+C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\zh-Hant\System.Xml.XPath.resources.dll
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\FBReader.App.csprojResolveAssemblyReference.cache
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\App.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Controls\ApplicationBar\FBReaderApplicationBar.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Controls\SelectionActionsControl.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Controls\ThreePagePanel.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Controls\TranslationControl.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\RSS.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Controls\HighlightedTextBlockControl.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Controls\BookTile.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\AllCatalogsSearchPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\BookInfoPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Controls\ColorSelectorControl.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Controls\MarginGridControl.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Controls\SearchResultItemControl.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\AddCatalogPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\BookmarkSearchPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\AuthorizationPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\CatalogPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\CatalogSearchPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Catalogs\CopsPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\ContentsPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\AllBooksBookmarksView.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\BookmarksPivot.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Bookmarks\ThisBookBookmarksView.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\DownloadListPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\EditBookPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\MainHub\CatalogsView.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\MainHub\UserLibraryView.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\MainPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\ReadPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\SearchInBookPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\SearchPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\AboutView.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\HyphenationSettingPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\CSSSettingPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\FlippingSettingPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\FontSettingPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\FormattingView.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\GeneralView.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\LockScreenSettingPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\MarginsSettingPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\MenuSettingPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\OrientationSettingPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\ScreenBrightnessPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\SettingsPivot.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Controls\TitlePanelControl.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\Settings\ThemeSettingPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\UserLibraryPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\Views\Pages\WebBrowserPage.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\WindowsPhoneControl1.g.cs
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\FBReader.App.g.resources
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\FBReader.App.dll
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\FBReader.App.pdb
+C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\XapCacheFile.xml

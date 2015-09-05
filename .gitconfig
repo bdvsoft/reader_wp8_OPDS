@@ -1,0 +1,9 @@
+[user]
+	name = Дмитрий
+	email = bdv17@inbox.ru
+[commit]
+        template = ~/.commit-
+[color]
+        ui = true
+[credential]
+        helper = cache --timeout=<3600>

@@ -1,0 +1,60 @@
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.pdb
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.xml
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\System.Windows.Interactivity.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.pdb
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.xml
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\de\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\en\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\es\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\fr\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\it\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\ja\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\ko\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\ru\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\obj\Debug_Reading\Caliburn.Micro.WP8.Extensions.csprojResolveAssemblyReference.cache
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\obj\Debug_Reading\Caliburn.Micro.Extensions.dll
+E:\Dev\Mobile\FBReader\src\Caliburn\Caliburn.Micro.WP8.Extensions\obj\Debug_Reading\Caliburn.Micro.Extensions.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.xml
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\System.Windows.Interactivity.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.xml
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\de\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\en\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\es\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\it\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\obj\Debug_Reading\Caliburn.Micro.WP8.Extensions.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\obj\Debug_Reading\Caliburn.Micro.Extensions.dll
+C:\Users\Дмитрий\Desktop\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\obj\Debug_Reading\Caliburn.Micro.Extensions.pdb
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.pdb
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.xml
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\System.Windows.Interactivity.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.pdb
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.xml
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\de\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\en\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\es\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\fr\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\it\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\ja\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\ko\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\ru\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\obj\Debug_Reading\Caliburn.Micro.WP8.Extensions.csprojResolveAssemblyReference.cache
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\obj\Debug_Reading\Caliburn.Micro.Extensions.dll
+C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\obj\Debug_Reading\Caliburn.Micro.Extensions.pdb

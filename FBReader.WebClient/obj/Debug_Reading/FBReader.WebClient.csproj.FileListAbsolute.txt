@@ -1,0 +1,45 @@
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\FBReader.WebClient.dll
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\FBReader.WebClient.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\FBReader.Common.dll
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\FBReader.DataModel.dll
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.dll
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.Primitives.dll
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\Microsoft.Live.dll
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\FBReader.Common.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\FBReader.DataModel.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.xml
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.Primitives.xml
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\bin\Debug_Reading\Microsoft.Live.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.csprojResolveAssemblyReference.cache
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.dll
+E:\Dev\Mobile\FBReader\src\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.WebClient.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.WebClient.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.Common.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.DataModel.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.Primitives.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\Microsoft.Live.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.Common.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.DataModel.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.Primitives.xml
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\bin\Debug_Reading\Microsoft.Live.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.csprojResolveAssemblyReference.cache
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\FBReader.WebClient.dll
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\FBReader.WebClient.pdb
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\FBReader.Common.dll
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\FBReader.DataModel.dll
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.dll
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.Primitives.dll
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\Microsoft.Live.dll
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\FBReader.Common.pdb
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\FBReader.DataModel.pdb
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.xml
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.Primitives.xml
+C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\Microsoft.Live.pdb
+C:\WP 8 opds reader\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.csprojResolveAssemblyReference.cache
+C:\WP 8 opds reader\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.dll
+C:\WP 8 opds reader\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.pdb

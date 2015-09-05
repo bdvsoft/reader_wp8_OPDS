@@ -1,0 +1,45 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="FBReader.App" EntryPointType="FBReader.App.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="FBReader.App" Source="FBReader.App.dll" />
+    <AssemblyPart x:Name="Caliburn.Micro" Source="Caliburn.Micro.dll" />
+    <AssemblyPart x:Name="Caliburn.Micro.Extensions" Source="Caliburn.Micro.Extensions.dll" />
+    <AssemblyPart x:Name="Cimbalino.Phone.Toolkit.Background" Source="Cimbalino.Phone.Toolkit.Background.dll" />
+    <AssemblyPart x:Name="Cimbalino.Phone.Toolkit" Source="Cimbalino.Phone.Toolkit.dll" />
+    <AssemblyPart x:Name="FBReader.AppServices" Source="FBReader.AppServices.dll" />
+    <AssemblyPart x:Name="FBReader.Common" Source="FBReader.Common.dll" />
+    <AssemblyPart x:Name="FBReader.DataModel" Source="FBReader.DataModel.dll" />
+    <AssemblyPart x:Name="FBReader.Localization" Source="FBReader.Localization.dll" />
+    <AssemblyPart x:Name="FBReader.PhoneServices" Source="FBReader.PhoneServices.dll" />
+    <AssemblyPart x:Name="FBReader.Render" Source="FBReader.Render.dll" />
+    <AssemblyPart x:Name="FBReader.Settings" Source="FBReader.Settings.dll" />
+    <AssemblyPart x:Name="FBReader.Tokenizer" Source="FBReader.Tokenizer.dll" />
+    <AssemblyPart x:Name="FBReader.WebClient" Source="FBReader.WebClient.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Interactions" Source="Microsoft.Expression.Interactions.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="NavigationCoercion" Source="NavigationCoercion.dll" />
+    <AssemblyPart x:Name="System.ServiceModel.Syndication" Source="System.ServiceModel.Syndication.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.Data" Source="Telerik.Windows.Controls.Data.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.Input" Source="Telerik.Windows.Controls.Input.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.Primitives" Source="Telerik.Windows.Controls.Primitives.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Core" Source="Telerik.Windows.Core.dll" />
+    <AssemblyPart x:Name="Microsoft.Live" Source="Microsoft.Live.dll" />
+    <AssemblyPart x:Name="System.Net.Http" Source="System.Net.Http.dll" />
+    <AssemblyPart x:Name="FlurryWP8SDK" Source="FlurryWP8SDK.dll" />
+    <AssemblyPart x:Name="SharpZipLib.WindowsPhone7" Source="SharpZipLib.WindowsPhone7.dll" />
+    <AssemblyPart x:Name="System.Net.Http.Primitives" Source="System.Net.Http.Primitives.dll" />
+    <AssemblyPart x:Name="FBReader.IO" Source="FBReader.IO.dll" />
+    <AssemblyPart x:Name="HtmlAgilityPack" Source="HtmlAgilityPack.dll" />
+    <AssemblyPart x:Name="FBReader.Hyphen" Source="FBReader.Hyphen.dll" />
+    <AssemblyPart x:Name="ExCss.WP" Source="ExCss.WP.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Data" Source="Telerik.Windows.Data.dll" />
+    <AssemblyPart x:Name="System.Xml.XPath" Source="System.Xml.XPath.dll" />
+    <AssemblyPart Source="ru/FBReader.Localization.resources.dll" />
+    <AssemblyPart Source="en/Microsoft.Expression.Interactions.resources.dll" />
+    <AssemblyPart Source="ru/Microsoft.Expression.Interactions.resources.dll" />
+    <AssemblyPart Source="ru/System.ServiceModel.Syndication.resources.dll" />
+    <AssemblyPart Source="en/System.Windows.Interactivity.resources.dll" />
+    <AssemblyPart Source="ru/System.Windows.Interactivity.resources.dll" />
+    <AssemblyPart Source="ru/System.Xml.XPath.resources.dll" />
+  </Deployment.Parts>
+</Deployment>

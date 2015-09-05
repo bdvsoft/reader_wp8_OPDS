@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="FBReader.App.Views.Pages.Settings.AboutView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+             xmlns:system="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="480" d:DesignWidth="480">
+    <UserControl.Resources>
+      
+    </UserControl.Resources>
+
+    <Grid x:Name="LayoutRoot" Margin="0,12,10,0">
+         <Grid.RowDefinitions>
+                        
+                        <RowDefinition Height="270"/>
+                        <RowDefinition Height="200"/>
+                        
+                        
+                    </Grid.RowDefinitions>
+        <RichTextBox HorizontalAlignment="Left" TextWrapping="Wrap" Height="260" Margin="10,0,0,0" VerticalAlignment="Top" Width="425" FontSize="26.667" ContentChanged="RichTextBox_ContentChanged">
+            <Paragraph>
+                <Run Text="Разработали:Дмитрий Башкатов и Евгений Захарцев . В приложении используются некоторые компоненты распространяемые по лицензии GNU"/>
+            </Paragraph>
+        </RichTextBox>
+
+    </Grid>
+</UserControl>

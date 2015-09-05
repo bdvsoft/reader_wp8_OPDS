@@ -1,0 +1,12 @@
+E:\Dev\Mobile\FBReader\src\FBReader.Hyphen\bin\Debug_Reading\FBReader.Hyphen.dll
+E:\Dev\Mobile\FBReader\src\FBReader.Hyphen\bin\Debug_Reading\FBReader.Hyphen.pdb
+E:\Dev\Mobile\FBReader\src\FBReader.Hyphen\obj\Debug_Reading\FBReader.Hyphen.dll
+E:\Dev\Mobile\FBReader\src\FBReader.Hyphen\obj\Debug_Reading\FBReader.Hyphen.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.Hyphen\bin\Debug_Reading\FBReader.Hyphen.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.Hyphen\bin\Debug_Reading\FBReader.Hyphen.pdb
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.Hyphen\obj\Debug_Reading\FBReader.Hyphen.dll
+C:\Users\Дмитрий\Desktop\Читай 2\FBReader.Hyphen\obj\Debug_Reading\FBReader.Hyphen.pdb
+C:\WP 8 opds reader\FBReader.Hyphen\bin\Debug_Reading\FBReader.Hyphen.dll
+C:\WP 8 opds reader\FBReader.Hyphen\bin\Debug_Reading\FBReader.Hyphen.pdb
+C:\WP 8 opds reader\FBReader.Hyphen\obj\Debug_Reading\FBReader.Hyphen.dll
+C:\WP 8 opds reader\FBReader.Hyphen\obj\Debug_Reading\FBReader.Hyphen.pdb

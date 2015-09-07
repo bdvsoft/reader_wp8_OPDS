@@ -28,3 +28,13 @@ C:\WP 8 opds reader\FBReader.IO\bin\Debug_Reading\Microsoft.Live.pdb
 C:\WP 8 opds reader\FBReader.IO\obj\Debug_Reading\FBReader.FileStorage.csprojResolveAssemblyReference.cache
 C:\WP 8 opds reader\FBReader.IO\obj\Debug_Reading\FBReader.IO.dll
 C:\WP 8 opds reader\FBReader.IO\obj\Debug_Reading\FBReader.IO.pdb
+C:\Читай 2\FBReader.IO\bin\Debug_Reading\FBReader.IO.dll
+C:\Читай 2\FBReader.IO\bin\Debug_Reading\FBReader.IO.pdb
+C:\Читай 2\FBReader.IO\bin\Debug_Reading\FBReader.Common.dll
+C:\Читай 2\FBReader.IO\bin\Debug_Reading\SharpZipLib.WindowsPhone7.dll
+C:\Читай 2\FBReader.IO\bin\Debug_Reading\Microsoft.Live.dll
+C:\Читай 2\FBReader.IO\bin\Debug_Reading\FBReader.Common.pdb
+C:\Читай 2\FBReader.IO\bin\Debug_Reading\Microsoft.Live.pdb
+C:\Читай 2\FBReader.IO\obj\Debug_Reading\FBReader.FileStorage.csprojResolveAssemblyReference.cache
+C:\Читай 2\FBReader.IO\obj\Debug_Reading\FBReader.IO.dll
+C:\Читай 2\FBReader.IO\obj\Debug_Reading\FBReader.IO.pdb

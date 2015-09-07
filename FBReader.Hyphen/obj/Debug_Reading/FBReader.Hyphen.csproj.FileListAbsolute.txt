@@ -10,3 +10,7 @@ C:\WP 8 opds reader\FBReader.Hyphen\bin\Debug_Reading\FBReader.Hyphen.dll
 C:\WP 8 opds reader\FBReader.Hyphen\bin\Debug_Reading\FBReader.Hyphen.pdb
 C:\WP 8 opds reader\FBReader.Hyphen\obj\Debug_Reading\FBReader.Hyphen.dll
 C:\WP 8 opds reader\FBReader.Hyphen\obj\Debug_Reading\FBReader.Hyphen.pdb
+C:\Читай 2\FBReader.Hyphen\bin\Debug_Reading\FBReader.Hyphen.dll
+C:\Читай 2\FBReader.Hyphen\bin\Debug_Reading\FBReader.Hyphen.pdb
+C:\Читай 2\FBReader.Hyphen\obj\Debug_Reading\FBReader.Hyphen.dll
+C:\Читай 2\FBReader.Hyphen\obj\Debug_Reading\FBReader.Hyphen.pdb

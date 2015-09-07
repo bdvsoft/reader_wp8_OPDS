@@ -43,3 +43,18 @@ C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\Microsoft.Live.pdb
 C:\WP 8 opds reader\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.csprojResolveAssemblyReference.cache
 C:\WP 8 opds reader\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.dll
 C:\WP 8 opds reader\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.pdb
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.WebClient.dll
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.WebClient.pdb
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.Common.dll
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.DataModel.dll
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.dll
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.Primitives.dll
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\Microsoft.Live.dll
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.Common.pdb
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.DataModel.pdb
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.xml
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\System.Net.Http.Primitives.xml
+C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\Microsoft.Live.pdb
+C:\Читай 2\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.csprojResolveAssemblyReference.cache
+C:\Читай 2\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.dll
+C:\Читай 2\FBReader.WebClient\obj\Debug_Reading\FBReader.WebClient.pdb

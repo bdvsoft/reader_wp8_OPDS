@@ -1,141 +1,141 @@
-﻿<xapCache source="C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\FBReader_Debug_Reading_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="04.09.2015 9:33:57">
-  <file source="C:\WP 8 opds reader\FBReader.App\obj\Debug_Reading\FBReader.App.dll" archivePath="FBReader.App.dll" lastWriteTime="04.09.2015 9:33:39" />
-  <file source="C:\WP 8 opds reader\FBReader.Localization\bin\Debug_Reading\ru\FBReader.Localization.resources.dll" archivePath="ru\FBReader.Localization.resources.dll" lastWriteTime="04.09.2015 9:33:17" />
+﻿<xapCache source="C:\Читай 2\FBReader.App\bin\Debug_Reading\FBReader_Debug_Reading_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="07.09.2015 16:45:49">
+  <file source="C:\Читай 2\FBReader.App\obj\Debug_Reading\FBReader.App.dll" archivePath="FBReader.App.dll" lastWriteTime="07.09.2015 16:45:33" />
+  <file source="C:\Читай 2\FBReader.Localization\bin\Debug_Reading\ru\FBReader.Localization.resources.dll" archivePath="ru\FBReader.Localization.resources.dll" lastWriteTime="04.09.2015 9:33:17" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\en\Microsoft.Expression.Interactions.resources.dll" archivePath="en\Microsoft.Expression.Interactions.resources.dll" lastWriteTime="25.09.2012 2:41:02" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\ru\Microsoft.Expression.Interactions.resources.dll" archivePath="ru\Microsoft.Expression.Interactions.resources.dll" lastWriteTime="25.09.2012 3:03:50" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\ru\System.ServiceModel.Syndication.resources.dll" archivePath="ru\System.ServiceModel.Syndication.resources.dll" lastWriteTime="10.03.2011 0:08:16" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\en\System.Windows.Interactivity.resources.dll" archivePath="en\System.Windows.Interactivity.resources.dll" lastWriteTime="25.09.2012 2:41:02" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\ru\System.Windows.Interactivity.resources.dll" archivePath="ru\System.Windows.Interactivity.resources.dll" lastWriteTime="25.09.2012 3:03:50" />
-  <file source="C:\WP 8 opds reader\FBReader.Tokenizer\bin\Debug_Reading\ru\System.Xml.XPath.resources.dll" archivePath="ru\System.Xml.XPath.resources.dll" lastWriteTime="10.03.2011 0:08:16" />
-  <file source="C:\WP 8 opds reader\FBReader.App\15-256.png" archivePath="15-256.png" lastWriteTime="12.08.2015 12:50:01" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\add.png" archivePath="Resources\Icons\add.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_add.png" archivePath="Resources\Icons\appbar_add.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_edit.png" archivePath="Resources\Icons\appbar_edit.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_email.png" archivePath="Resources\Icons\appbar_email.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_favorites.png" archivePath="Resources\Icons\appbar_favorites.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_favorites_add.png" archivePath="Resources\Icons\appbar_favorites_add.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_favorites_del.png" archivePath="Resources\Icons\appbar_favorites_del.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_rate.png" archivePath="Resources\Icons\appbar_rate.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_read.png" archivePath="Resources\Icons\appbar_read.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_search.png" archivePath="Resources\Icons\appbar_search.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_share.png" archivePath="Resources\Icons\appbar_share.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_sort.png" archivePath="Resources\Icons\appbar_sort.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\appbar_submit.png" archivePath="Resources\Icons\appbar_submit.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\back.png" archivePath="Resources\Icons\back.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\basecircle.png" archivePath="Resources\Icons\basecircle.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\bookmark.png" archivePath="Resources\Icons\bookmark.png" lastWriteTime="14.08.2015 14:04:10" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\buy.png" archivePath="Resources\Icons\buy.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\cancel.png" archivePath="Resources\Icons\cancel.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\cops_icon.jpg" archivePath="Resources\Icons\cops_icon.jpg" lastWriteTime="29.06.2015 23:58:16" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\delete.png" archivePath="Resources\Icons\delete.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\download.png" archivePath="Resources\Icons\download.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\empty_catalog.png" archivePath="Resources\Icons\empty_catalog.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\empty_medium.png" archivePath="Resources\Icons\empty_medium.png" lastWriteTime="14.08.2015 7:04:52" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\empty_small.png" archivePath="Resources\Icons\empty_small.png" lastWriteTime="14.08.2015 7:05:35" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\flibusta_icon.jpg" archivePath="Resources\Icons\flibusta_icon.jpg" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\librusec_icon.jpg" archivePath="Resources\Icons\librusec_icon.jpg" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\litres_icon.jpg" archivePath="Resources\Icons\litres_icon.jpg" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\Manybooks.png" archivePath="Resources\Icons\Manybooks.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\marker_paid.png" archivePath="Resources\Icons\marker_paid.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\prochtenie_catalog.png" archivePath="Resources\Icons\prochtenie_catalog.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\sd_card.png" archivePath="Resources\Icons\sd_card.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\skydrive.png" archivePath="Resources\Icons\skydrive.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\tile.png" archivePath="Resources\Icons\tile.png" lastWriteTime="11.08.2015 21:10:39" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\fbr_icon_200x200.png" archivePath="Resources\Icons\fbr_icon_200x200.png" lastWriteTime="14.08.2015 16:48:19" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\search.png" archivePath="Resources\Icons\search.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\toc.png" archivePath="Resources\Icons\toc.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\toFavorites.png" archivePath="Resources\Icons\toFavorites.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\authors.png" archivePath="Resources\Images\authors.png" lastWriteTime="10.08.2015 10:29:58" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\empty_max.png" archivePath="Resources\Images\empty_max.png" lastWriteTime="14.08.2015 14:14:45" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\languages.png" archivePath="Resources\Images\languages.png" lastWriteTime="10.08.2015 10:42:34" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\names.png" archivePath="Resources\Images\names.png" lastWriteTime="14.08.2015 16:43:37" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\tags.png" archivePath="Resources\Images\tags.png" lastWriteTime="10.08.2015 10:31:49" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\AppLogo.png" archivePath="Resources\Images\WVGA\AppLogo.png" lastWriteTime="11.08.2015 13:12:41" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\DesignBookCover.jpg" archivePath="Resources\Images\WVGA\DesignBookCover.jpg" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\DevBig.png" archivePath="Resources\Images\WVGA\DevBig.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\DevLittle.png" archivePath="Resources\Images\WVGA\DevLittle.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\ic_select.png" archivePath="Resources\Images\WVGA\ic_select.png" lastWriteTime="14.08.2015 14:18:53" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\logo_cactussoft.png" archivePath="Resources\Images\WVGA\logo_cactussoft.png" lastWriteTime="11.07.2015 16:42:22" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\MainPagePanoramaBackround.jpg" archivePath="Resources\Images\WVGA\MainPagePanoramaBackround.jpg" lastWriteTime="08.07.2015 19:30:24" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\TextSelect.png" archivePath="Resources\Images\WVGA\TextSelect.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\txt_bookmark.png" archivePath="Resources\Images\WVGA\txt_bookmark.png" lastWriteTime="14.08.2015 16:32:18" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\txt_copy.png" archivePath="Resources\Images\WVGA\txt_copy.png" lastWriteTime="14.08.2015 16:19:35" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\txt_share.png" archivePath="Resources\Images\WVGA\txt_share.png" lastWriteTime="14.08.2015 16:26:34" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WVGA\txt_translate.png" archivePath="Resources\Images\WVGA\txt_translate.png" lastWriteTime="14.08.2015 16:35:48" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\AppLogo.png" archivePath="Resources\Images\WXGA\AppLogo.png" lastWriteTime="11.08.2015 13:12:41" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\DesignBookCover.jpg" archivePath="Resources\Images\WXGA\DesignBookCover.jpg" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\DevBig.png" archivePath="Resources\Images\WXGA\DevBig.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\DevLittle.png" archivePath="Resources\Images\WXGA\DevLittle.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\ic_select.png" archivePath="Resources\Images\WXGA\ic_select.png" lastWriteTime="14.08.2015 14:18:28" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\logo_cactussoft.png" archivePath="Resources\Images\WXGA\logo_cactussoft.png" lastWriteTime="11.07.2015 16:40:43" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\MainPagePanoramaBackround.jpg" archivePath="Resources\Images\WXGA\MainPagePanoramaBackround.jpg" lastWriteTime="08.07.2015 19:30:49" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\TextSelect.png" archivePath="Resources\Images\WXGA\TextSelect.png" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\txt_bookmark.png" archivePath="Resources\Images\WXGA\txt_bookmark.png" lastWriteTime="14.08.2015 16:30:59" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\txt_copy.png" archivePath="Resources\Images\WXGA\txt_copy.png" lastWriteTime="14.08.2015 16:16:25" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\txt_share.png" archivePath="Resources\Images\WXGA\txt_share.png" lastWriteTime="14.08.2015 16:25:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Images\WXGA\txt_translate.png" archivePath="Resources\Images\WXGA\txt_translate.png" lastWriteTime="14.08.2015 16:36:04" />
-  <file source="C:\WP 8 opds reader\FBReader.App\SplashScreenImage.Screen-720p.jpg" archivePath="SplashScreenImage.Screen-720p.jpg" lastWriteTime="08.07.2015 17:50:26" />
-  <file source="C:\WP 8 opds reader\FBReader.App\SplashScreenImage.Screen-WVGA.jpg" archivePath="SplashScreenImage.Screen-WVGA.jpg" lastWriteTime="08.07.2015 17:48:32" />
-  <file source="C:\WP 8 opds reader\FBReader.App\SplashScreenImage.Screen-WXGA.jpg" archivePath="SplashScreenImage.Screen-WXGA.jpg" lastWriteTime="08.07.2015 17:57:52" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Views\Pages\Positive-256.png" archivePath="Views\Pages\Positive-256.png" lastWriteTime="08.07.2015 18:23:53" />
-  <file source="C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="14.08.2015 17:07:49" />
-  <file source="C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\Caliburn.Micro.dll" archivePath="Caliburn.Micro.dll" lastWriteTime="04.09.2015 9:33:14" />
-  <file source="C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.dll" archivePath="Caliburn.Micro.Extensions.dll" lastWriteTime="04.09.2015 9:33:19" />
-  <file source="C:\WP 8 opds reader\packages\Cimbalino.Phone.Toolkit.Background.3.1.0\lib\wp8\Cimbalino.Phone.Toolkit.Background.dll" archivePath="Cimbalino.Phone.Toolkit.Background.dll" lastWriteTime="28.06.2015 22:15:08" />
-  <file source="C:\WP 8 opds reader\packages\Cimbalino.Phone.Toolkit.3.1.0\lib\wp8\Cimbalino.Phone.Toolkit.dll" archivePath="Cimbalino.Phone.Toolkit.dll" lastWriteTime="28.06.2015 22:15:08" />
-  <file source="C:\WP 8 opds reader\FBReader.AppServices\bin\Debug_Reading\FBReader.AppServices.dll" archivePath="FBReader.AppServices.dll" lastWriteTime="04.09.2015 9:33:32" />
-  <file source="C:\WP 8 opds reader\FBReader.Common\bin\Debug_Reading\FBReader.Common.dll" archivePath="FBReader.Common.dll" lastWriteTime="04.09.2015 9:33:13" />
-  <file source="C:\WP 8 opds reader\FBReader.DataModel\bin\Debug_Reading\FBReader.DataModel.dll" archivePath="FBReader.DataModel.dll" lastWriteTime="04.09.2015 9:33:19" />
-  <file source="C:\WP 8 opds reader\FBReader.Localization\bin\Debug_Reading\FBReader.Localization.dll" archivePath="FBReader.Localization.dll" lastWriteTime="04.09.2015 9:33:17" />
-  <file source="C:\WP 8 opds reader\FBReader.PhoneServices\bin\Debug_Reading\FBReader.PhoneServices.dll" archivePath="FBReader.PhoneServices.dll" lastWriteTime="04.09.2015 9:33:15" />
-  <file source="C:\WP 8 opds reader\FBReader.Render\bin\Debug_Reading\FBReader.Render.dll" archivePath="FBReader.Render.dll" lastWriteTime="04.09.2015 9:33:25" />
-  <file source="C:\WP 8 opds reader\FBReader.Settings\bin\Debug_Reading\FBReader.Settings.dll" archivePath="FBReader.Settings.dll" lastWriteTime="04.09.2015 9:33:17" />
-  <file source="C:\WP 8 opds reader\FBReader.Tokenizer\bin\Debug_Reading\FBReader.Tokenizer.dll" archivePath="FBReader.Tokenizer.dll" lastWriteTime="04.09.2015 9:33:22" />
-  <file source="C:\WP 8 opds reader\FBReader.WebClient\bin\Debug_Reading\FBReader.WebClient.dll" archivePath="FBReader.WebClient.dll" lastWriteTime="04.09.2015 9:33:22" />
+  <file source="C:\Читай 2\FBReader.Tokenizer\bin\Debug_Reading\ru\System.Xml.XPath.resources.dll" archivePath="ru\System.Xml.XPath.resources.dll" lastWriteTime="10.03.2011 0:08:16" />
+  <file source="C:\Читай 2\FBReader.App\15-256.png" archivePath="15-256.png" lastWriteTime="12.08.2015 12:50:01" />
+  <file source="C:\Читай 2\FBReader.App\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\add.png" archivePath="Resources\Icons\add.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_add.png" archivePath="Resources\Icons\appbar_add.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_edit.png" archivePath="Resources\Icons\appbar_edit.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_email.png" archivePath="Resources\Icons\appbar_email.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_favorites.png" archivePath="Resources\Icons\appbar_favorites.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_favorites_add.png" archivePath="Resources\Icons\appbar_favorites_add.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_favorites_del.png" archivePath="Resources\Icons\appbar_favorites_del.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_rate.png" archivePath="Resources\Icons\appbar_rate.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_read.png" archivePath="Resources\Icons\appbar_read.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_search.png" archivePath="Resources\Icons\appbar_search.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_share.png" archivePath="Resources\Icons\appbar_share.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_sort.png" archivePath="Resources\Icons\appbar_sort.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\appbar_submit.png" archivePath="Resources\Icons\appbar_submit.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\back.png" archivePath="Resources\Icons\back.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\basecircle.png" archivePath="Resources\Icons\basecircle.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\bookmark.png" archivePath="Resources\Icons\bookmark.png" lastWriteTime="14.08.2015 14:04:10" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\buy.png" archivePath="Resources\Icons\buy.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\cancel.png" archivePath="Resources\Icons\cancel.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\cops_icon.jpg" archivePath="Resources\Icons\cops_icon.jpg" lastWriteTime="29.06.2015 23:58:16" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\delete.png" archivePath="Resources\Icons\delete.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\download.png" archivePath="Resources\Icons\download.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\empty_catalog.png" archivePath="Resources\Icons\empty_catalog.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\empty_medium.png" archivePath="Resources\Icons\empty_medium.png" lastWriteTime="14.08.2015 7:04:52" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\empty_small.png" archivePath="Resources\Icons\empty_small.png" lastWriteTime="14.08.2015 7:05:35" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\flibusta_icon.jpg" archivePath="Resources\Icons\flibusta_icon.jpg" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\librusec_icon.jpg" archivePath="Resources\Icons\librusec_icon.jpg" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\litres_icon.jpg" archivePath="Resources\Icons\litres_icon.jpg" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\Manybooks.png" archivePath="Resources\Icons\Manybooks.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\marker_paid.png" archivePath="Resources\Icons\marker_paid.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\prochtenie_catalog.png" archivePath="Resources\Icons\prochtenie_catalog.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\sd_card.png" archivePath="Resources\Icons\sd_card.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\skydrive.png" archivePath="Resources\Icons\skydrive.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\tile.png" archivePath="Resources\Icons\tile.png" lastWriteTime="11.08.2015 21:10:39" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\fbr_icon_200x200.png" archivePath="Resources\Icons\fbr_icon_200x200.png" lastWriteTime="14.08.2015 16:48:19" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\search.png" archivePath="Resources\Icons\search.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\toc.png" archivePath="Resources\Icons\toc.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\toFavorites.png" archivePath="Resources\Icons\toFavorites.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\authors.png" archivePath="Resources\Images\authors.png" lastWriteTime="10.08.2015 10:29:58" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\empty_max.png" archivePath="Resources\Images\empty_max.png" lastWriteTime="14.08.2015 14:14:45" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\languages.png" archivePath="Resources\Images\languages.png" lastWriteTime="10.08.2015 10:42:34" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\names.png" archivePath="Resources\Images\names.png" lastWriteTime="14.08.2015 16:43:37" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\tags.png" archivePath="Resources\Images\tags.png" lastWriteTime="10.08.2015 10:31:49" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\AppLogo.png" archivePath="Resources\Images\WVGA\AppLogo.png" lastWriteTime="11.08.2015 13:12:41" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\DesignBookCover.jpg" archivePath="Resources\Images\WVGA\DesignBookCover.jpg" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\DevBig.png" archivePath="Resources\Images\WVGA\DevBig.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\DevLittle.png" archivePath="Resources\Images\WVGA\DevLittle.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\ic_select.png" archivePath="Resources\Images\WVGA\ic_select.png" lastWriteTime="14.08.2015 14:18:53" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\logo_cactussoft.png" archivePath="Resources\Images\WVGA\logo_cactussoft.png" lastWriteTime="11.07.2015 16:42:22" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\MainPagePanoramaBackround.jpg" archivePath="Resources\Images\WVGA\MainPagePanoramaBackround.jpg" lastWriteTime="08.07.2015 19:30:24" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\TextSelect.png" archivePath="Resources\Images\WVGA\TextSelect.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\txt_bookmark.png" archivePath="Resources\Images\WVGA\txt_bookmark.png" lastWriteTime="14.08.2015 16:32:18" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\txt_copy.png" archivePath="Resources\Images\WVGA\txt_copy.png" lastWriteTime="14.08.2015 16:19:35" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\txt_share.png" archivePath="Resources\Images\WVGA\txt_share.png" lastWriteTime="14.08.2015 16:26:34" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WVGA\txt_translate.png" archivePath="Resources\Images\WVGA\txt_translate.png" lastWriteTime="14.08.2015 16:35:48" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\AppLogo.png" archivePath="Resources\Images\WXGA\AppLogo.png" lastWriteTime="11.08.2015 13:12:41" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\DesignBookCover.jpg" archivePath="Resources\Images\WXGA\DesignBookCover.jpg" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\DevBig.png" archivePath="Resources\Images\WXGA\DevBig.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\DevLittle.png" archivePath="Resources\Images\WXGA\DevLittle.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\ic_select.png" archivePath="Resources\Images\WXGA\ic_select.png" lastWriteTime="14.08.2015 14:18:28" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\logo_cactussoft.png" archivePath="Resources\Images\WXGA\logo_cactussoft.png" lastWriteTime="11.07.2015 16:40:43" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\MainPagePanoramaBackround.jpg" archivePath="Resources\Images\WXGA\MainPagePanoramaBackround.jpg" lastWriteTime="08.07.2015 19:30:49" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\TextSelect.png" archivePath="Resources\Images\WXGA\TextSelect.png" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\txt_bookmark.png" archivePath="Resources\Images\WXGA\txt_bookmark.png" lastWriteTime="14.08.2015 16:30:59" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\txt_copy.png" archivePath="Resources\Images\WXGA\txt_copy.png" lastWriteTime="14.08.2015 16:16:25" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\txt_share.png" archivePath="Resources\Images\WXGA\txt_share.png" lastWriteTime="14.08.2015 16:25:36" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Images\WXGA\txt_translate.png" archivePath="Resources\Images\WXGA\txt_translate.png" lastWriteTime="14.08.2015 16:36:04" />
+  <file source="C:\Читай 2\FBReader.App\SplashScreenImage.Screen-720p.jpg" archivePath="SplashScreenImage.Screen-720p.jpg" lastWriteTime="08.07.2015 17:50:26" />
+  <file source="C:\Читай 2\FBReader.App\SplashScreenImage.Screen-WVGA.jpg" archivePath="SplashScreenImage.Screen-WVGA.jpg" lastWriteTime="08.07.2015 17:48:32" />
+  <file source="C:\Читай 2\FBReader.App\SplashScreenImage.Screen-WXGA.jpg" archivePath="SplashScreenImage.Screen-WXGA.jpg" lastWriteTime="08.07.2015 17:57:52" />
+  <file source="C:\Читай 2\FBReader.App\Views\Pages\Positive-256.png" archivePath="Views\Pages\Positive-256.png" lastWriteTime="08.07.2015 18:23:53" />
+  <file source="C:\Читай 2\FBReader.App\bin\Debug_Reading\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="07.09.2015 16:45:44" />
+  <file source="C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\Caliburn.Micro.dll" archivePath="Caliburn.Micro.dll" lastWriteTime="04.09.2015 9:33:14" />
+  <file source="C:\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.dll" archivePath="Caliburn.Micro.Extensions.dll" lastWriteTime="04.09.2015 9:33:19" />
+  <file source="C:\Читай 2\packages\Cimbalino.Phone.Toolkit.Background.3.1.0\lib\wp8\Cimbalino.Phone.Toolkit.Background.dll" archivePath="Cimbalino.Phone.Toolkit.Background.dll" lastWriteTime="28.06.2015 22:15:08" />
+  <file source="C:\Читай 2\packages\Cimbalino.Phone.Toolkit.3.1.0\lib\wp8\Cimbalino.Phone.Toolkit.dll" archivePath="Cimbalino.Phone.Toolkit.dll" lastWriteTime="28.06.2015 22:15:08" />
+  <file source="C:\Читай 2\FBReader.AppServices\bin\Debug_Reading\FBReader.AppServices.dll" archivePath="FBReader.AppServices.dll" lastWriteTime="04.09.2015 9:33:32" />
+  <file source="C:\Читай 2\FBReader.Common\bin\Debug_Reading\FBReader.Common.dll" archivePath="FBReader.Common.dll" lastWriteTime="04.09.2015 9:33:13" />
+  <file source="C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\FBReader.DataModel.dll" archivePath="FBReader.DataModel.dll" lastWriteTime="04.09.2015 9:33:19" />
+  <file source="C:\Читай 2\FBReader.Localization\bin\Debug_Reading\FBReader.Localization.dll" archivePath="FBReader.Localization.dll" lastWriteTime="04.09.2015 9:33:17" />
+  <file source="C:\Читай 2\FBReader.PhoneServices\bin\Debug_Reading\FBReader.PhoneServices.dll" archivePath="FBReader.PhoneServices.dll" lastWriteTime="04.09.2015 9:33:15" />
+  <file source="C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.Render.dll" archivePath="FBReader.Render.dll" lastWriteTime="04.09.2015 9:33:25" />
+  <file source="C:\Читай 2\FBReader.Settings\bin\Debug_Reading\FBReader.Settings.dll" archivePath="FBReader.Settings.dll" lastWriteTime="04.09.2015 9:33:17" />
+  <file source="C:\Читай 2\FBReader.Tokenizer\bin\Debug_Reading\FBReader.Tokenizer.dll" archivePath="FBReader.Tokenizer.dll" lastWriteTime="04.09.2015 9:33:22" />
+  <file source="C:\Читай 2\FBReader.WebClient\bin\Debug_Reading\FBReader.WebClient.dll" archivePath="FBReader.WebClient.dll" lastWriteTime="04.09.2015 9:33:22" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\Microsoft.Expression.Interactions.dll" archivePath="Microsoft.Expression.Interactions.dll" lastWriteTime="25.09.2012 2:41:02" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="31.12.2012 0:12:58" />
-  <file source="C:\WP 8 opds reader\libs\NavigationCoercion.dll" archivePath="NavigationCoercion.dll" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\libs\NavigationCoercion.dll" archivePath="NavigationCoercion.dll" lastWriteTime="31.10.2013 7:40:36" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ServiceModel.Syndication.dll" archivePath="System.ServiceModel.Syndication.dll" lastWriteTime="10.03.2011 0:08:16" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="25.09.2012 2:41:02" />
-  <file source="C:\WP 8 opds reader\libs\Telerik\Telerik.Windows.Controls.Data.dll" archivePath="Telerik.Windows.Controls.Data.dll" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\libs\Telerik\Telerik.Windows.Controls.Input.dll" archivePath="Telerik.Windows.Controls.Input.dll" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\libs\Telerik\Telerik.Windows.Controls.Primitives.dll" archivePath="Telerik.Windows.Controls.Primitives.dll" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\libs\Telerik\Telerik.Windows.Core.dll" archivePath="Telerik.Windows.Core.dll" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.AppServices\bin\Debug_Reading\Microsoft.Live.dll" archivePath="Microsoft.Live.dll" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.AppServices\bin\Debug_Reading\System.Net.Http.dll" archivePath="System.Net.Http.dll" lastWriteTime="28.06.2015 22:14:55" />
-  <file source="C:\WP 8 opds reader\FBReader.AppServices\bin\Debug_Reading\FlurryWP8SDK.dll" archivePath="FlurryWP8SDK.dll" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.Render\bin\Debug_Reading\SharpZipLib.WindowsPhone7.dll" archivePath="SharpZipLib.WindowsPhone7.dll" lastWriteTime="28.06.2015 22:14:46" />
-  <file source="C:\WP 8 opds reader\FBReader.Render\bin\Debug_Reading\System.Net.Http.Primitives.dll" archivePath="System.Net.Http.Primitives.dll" lastWriteTime="28.06.2015 22:14:55" />
-  <file source="C:\WP 8 opds reader\FBReader.Render\bin\Debug_Reading\FBReader.IO.dll" archivePath="FBReader.IO.dll" lastWriteTime="04.09.2015 9:33:17" />
-  <file source="C:\WP 8 opds reader\FBReader.Tokenizer\bin\Debug_Reading\HtmlAgilityPack.dll" archivePath="HtmlAgilityPack.dll" lastWriteTime="28.06.2015 22:14:55" />
-  <file source="C:\WP 8 opds reader\FBReader.Tokenizer\bin\Debug_Reading\FBReader.Hyphen.dll" archivePath="FBReader.Hyphen.dll" lastWriteTime="04.09.2015 9:33:13" />
-  <file source="C:\WP 8 opds reader\FBReader.Tokenizer\bin\Debug_Reading\ExCss.WP.dll" archivePath="ExCss.WP.dll" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\libs\Telerik\Telerik.Windows.Data.dll" archivePath="Telerik.Windows.Data.dll" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.Tokenizer\bin\Debug_Reading\System.Xml.XPath.dll" archivePath="System.Xml.XPath.dll" lastWriteTime="10.03.2011 0:08:16" />
-  <file source="C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.xml" archivePath="Caliburn.Micro.Extensions.xml" lastWriteTime="04.09.2015 9:33:18" />
-  <file source="C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\Caliburn.Micro.xml" archivePath="Caliburn.Micro.xml" lastWriteTime="04.09.2015 9:33:14" />
-  <file source="C:\WP 8 opds reader\packages\Cimbalino.Phone.Toolkit.3.1.0\lib\wp8\Cimbalino.Phone.Toolkit.xml" archivePath="Cimbalino.Phone.Toolkit.xml" lastWriteTime="28.06.2015 22:15:08" />
-  <file source="C:\WP 8 opds reader\packages\Cimbalino.Phone.Toolkit.Background.3.1.0\lib\wp8\Cimbalino.Phone.Toolkit.Background.xml" archivePath="Cimbalino.Phone.Toolkit.Background.xml" lastWriteTime="28.06.2015 22:15:08" />
+  <file source="C:\Читай 2\libs\Telerik\Telerik.Windows.Controls.Data.dll" archivePath="Telerik.Windows.Controls.Data.dll" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\libs\Telerik\Telerik.Windows.Controls.Input.dll" archivePath="Telerik.Windows.Controls.Input.dll" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\libs\Telerik\Telerik.Windows.Controls.Primitives.dll" archivePath="Telerik.Windows.Controls.Primitives.dll" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\libs\Telerik\Telerik.Windows.Core.dll" archivePath="Telerik.Windows.Core.dll" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.AppServices\bin\Debug_Reading\Microsoft.Live.dll" archivePath="Microsoft.Live.dll" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.AppServices\bin\Debug_Reading\System.Net.Http.dll" archivePath="System.Net.Http.dll" lastWriteTime="28.06.2015 22:14:55" />
+  <file source="C:\Читай 2\FBReader.AppServices\bin\Debug_Reading\FlurryWP8SDK.dll" archivePath="FlurryWP8SDK.dll" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.Render\bin\Debug_Reading\SharpZipLib.WindowsPhone7.dll" archivePath="SharpZipLib.WindowsPhone7.dll" lastWriteTime="28.06.2015 22:14:46" />
+  <file source="C:\Читай 2\FBReader.Render\bin\Debug_Reading\System.Net.Http.Primitives.dll" archivePath="System.Net.Http.Primitives.dll" lastWriteTime="28.06.2015 22:14:55" />
+  <file source="C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.IO.dll" archivePath="FBReader.IO.dll" lastWriteTime="04.09.2015 9:33:17" />
+  <file source="C:\Читай 2\FBReader.Tokenizer\bin\Debug_Reading\HtmlAgilityPack.dll" archivePath="HtmlAgilityPack.dll" lastWriteTime="28.06.2015 22:14:55" />
+  <file source="C:\Читай 2\FBReader.Tokenizer\bin\Debug_Reading\FBReader.Hyphen.dll" archivePath="FBReader.Hyphen.dll" lastWriteTime="04.09.2015 9:33:13" />
+  <file source="C:\Читай 2\FBReader.Tokenizer\bin\Debug_Reading\ExCss.WP.dll" archivePath="ExCss.WP.dll" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\libs\Telerik\Telerik.Windows.Data.dll" archivePath="Telerik.Windows.Data.dll" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.Tokenizer\bin\Debug_Reading\System.Xml.XPath.dll" archivePath="System.Xml.XPath.dll" lastWriteTime="10.03.2011 0:08:16" />
+  <file source="C:\Читай 2\Caliburn\Caliburn.Micro.WP8.Extensions\bin\Debug_Reading\Caliburn.Micro.Extensions.xml" archivePath="Caliburn.Micro.Extensions.xml" lastWriteTime="04.09.2015 9:33:18" />
+  <file source="C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\Caliburn.Micro.xml" archivePath="Caliburn.Micro.xml" lastWriteTime="04.09.2015 9:33:14" />
+  <file source="C:\Читай 2\packages\Cimbalino.Phone.Toolkit.3.1.0\lib\wp8\Cimbalino.Phone.Toolkit.xml" archivePath="Cimbalino.Phone.Toolkit.xml" lastWriteTime="28.06.2015 22:15:08" />
+  <file source="C:\Читай 2\packages\Cimbalino.Phone.Toolkit.Background.3.1.0\lib\wp8\Cimbalino.Phone.Toolkit.Background.xml" archivePath="Cimbalino.Phone.Toolkit.Background.xml" lastWriteTime="28.06.2015 22:15:08" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ServiceModel.Syndication.xml" archivePath="System.ServiceModel.Syndication.xml" lastWriteTime="26.02.2010 1:01:10" />
-  <file source="C:\WP 8 opds reader\libs\Telerik\Telerik.Windows.Controls.Data.xml" archivePath="Telerik.Windows.Controls.Data.xml" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\libs\Telerik\Telerik.Windows.Controls.Input.xml" archivePath="Telerik.Windows.Controls.Input.xml" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\libs\Telerik\Telerik.Windows.Controls.Primitives.xml" archivePath="Telerik.Windows.Controls.Primitives.xml" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\libs\Telerik\Telerik.Windows.Core.xml" archivePath="Telerik.Windows.Core.xml" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.AppServices\bin\Debug_Reading\System.Net.Http.xml" archivePath="System.Net.Http.xml" lastWriteTime="28.06.2015 22:14:55" />
-  <file source="C:\WP 8 opds reader\FBReader.Render\bin\Debug_Reading\System.Net.Http.Primitives.xml" archivePath="System.Net.Http.Primitives.xml" lastWriteTime="28.06.2015 22:14:55" />
-  <file source="C:\WP 8 opds reader\FBReader.Tokenizer\bin\Debug_Reading\HtmlAgilityPack.xml" archivePath="HtmlAgilityPack.xml" lastWriteTime="28.06.2015 22:14:55" />
-  <file source="C:\WP 8 opds reader\libs\Telerik\Telerik.Windows.Data.xml" archivePath="Telerik.Windows.Data.xml" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.Tokenizer\bin\Debug_Reading\System.Xml.XPath.xml" archivePath="System.Xml.XPath.xml" lastWriteTime="05.02.2010 1:34:52" />
-  <file source="C:\WP 8 opds reader\FBReader.App\Resources\Icons\fbr_icon_300x300.png" archivePath="Resources\Icons\fbr_icon_300x300.png" lastWriteTime="14.08.2015 16:49:02" />
-  <file source="C:\WP 8 opds reader\packages\Microsoft.Net.Http.2.2.13\lib\sl4-windowsphone71\System.Net.Http.Extensions.dll" archivePath="System.Net.Http.Extensions.dll" lastWriteTime="28.06.2015 22:14:55" />
-  <file source="C:\WP 8 opds reader\packages\Microsoft.Net.Http.2.2.13\lib\sl4-windowsphone71\System.Net.Http.Extensions.xml" archivePath="System.Net.Http.Extensions.xml" lastWriteTime="28.06.2015 22:14:55" />
-  <file source="C:\WP 8 opds reader\FBReader.AppServices\FodyWeavers.xml" archivePath="FodyWeavers.xml" lastWriteTime="31.10.2013 7:40:36" />
-  <file source="C:\WP 8 opds reader\FBReader.App\bin\Debug_Reading\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="14.08.2015 17:07:50" />
+  <file source="C:\Читай 2\libs\Telerik\Telerik.Windows.Controls.Data.xml" archivePath="Telerik.Windows.Controls.Data.xml" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\libs\Telerik\Telerik.Windows.Controls.Input.xml" archivePath="Telerik.Windows.Controls.Input.xml" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\libs\Telerik\Telerik.Windows.Controls.Primitives.xml" archivePath="Telerik.Windows.Controls.Primitives.xml" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\libs\Telerik\Telerik.Windows.Core.xml" archivePath="Telerik.Windows.Core.xml" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.AppServices\bin\Debug_Reading\System.Net.Http.xml" archivePath="System.Net.Http.xml" lastWriteTime="28.06.2015 22:14:55" />
+  <file source="C:\Читай 2\FBReader.Render\bin\Debug_Reading\System.Net.Http.Primitives.xml" archivePath="System.Net.Http.Primitives.xml" lastWriteTime="28.06.2015 22:14:55" />
+  <file source="C:\Читай 2\FBReader.Tokenizer\bin\Debug_Reading\HtmlAgilityPack.xml" archivePath="HtmlAgilityPack.xml" lastWriteTime="28.06.2015 22:14:55" />
+  <file source="C:\Читай 2\libs\Telerik\Telerik.Windows.Data.xml" archivePath="Telerik.Windows.Data.xml" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.Tokenizer\bin\Debug_Reading\System.Xml.XPath.xml" archivePath="System.Xml.XPath.xml" lastWriteTime="05.02.2010 1:34:52" />
+  <file source="C:\Читай 2\FBReader.App\Resources\Icons\fbr_icon_300x300.png" archivePath="Resources\Icons\fbr_icon_300x300.png" lastWriteTime="14.08.2015 16:49:02" />
+  <file source="C:\Читай 2\packages\Microsoft.Net.Http.2.2.13\lib\sl4-windowsphone71\System.Net.Http.Extensions.dll" archivePath="System.Net.Http.Extensions.dll" lastWriteTime="28.06.2015 22:14:55" />
+  <file source="C:\Читай 2\packages\Microsoft.Net.Http.2.2.13\lib\sl4-windowsphone71\System.Net.Http.Extensions.xml" archivePath="System.Net.Http.Extensions.xml" lastWriteTime="28.06.2015 22:14:55" />
+  <file source="C:\Читай 2\FBReader.AppServices\FodyWeavers.xml" archivePath="FodyWeavers.xml" lastWriteTime="31.10.2013 7:40:36" />
+  <file source="C:\Читай 2\FBReader.App\bin\Debug_Reading\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="07.09.2015 16:45:46" />
 </xapCache>

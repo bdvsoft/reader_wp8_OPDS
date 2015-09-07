@@ -31,3 +31,14 @@ C:\WP 8 opds reader\FBReader.Settings\bin\Debug_Reading\Microsoft.Live.pdb
 C:\WP 8 opds reader\FBReader.Settings\obj\Debug_Reading\FBReader.Settings.csprojResolveAssemblyReference.cache
 C:\WP 8 opds reader\FBReader.Settings\obj\Debug_Reading\FBReader.Settings.dll
 C:\WP 8 opds reader\FBReader.Settings\obj\Debug_Reading\FBReader.Settings.pdb
+C:\Читай 2\FBReader.Settings\bin\Debug_Reading\FBReader.Settings.dll
+C:\Читай 2\FBReader.Settings\bin\Debug_Reading\FBReader.Settings.pdb
+C:\Читай 2\FBReader.Settings\bin\Debug_Reading\FBReader.PhoneServices.dll
+C:\Читай 2\FBReader.Settings\bin\Debug_Reading\FBReader.Common.dll
+C:\Читай 2\FBReader.Settings\bin\Debug_Reading\Microsoft.Live.dll
+C:\Читай 2\FBReader.Settings\bin\Debug_Reading\FBReader.PhoneServices.pdb
+C:\Читай 2\FBReader.Settings\bin\Debug_Reading\FBReader.Common.pdb
+C:\Читай 2\FBReader.Settings\bin\Debug_Reading\Microsoft.Live.pdb
+C:\Читай 2\FBReader.Settings\obj\Debug_Reading\FBReader.Settings.csprojResolveAssemblyReference.cache
+C:\Читай 2\FBReader.Settings\obj\Debug_Reading\FBReader.Settings.dll
+C:\Читай 2\FBReader.Settings\obj\Debug_Reading\FBReader.Settings.pdb

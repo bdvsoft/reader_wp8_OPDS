@@ -88,3 +88,33 @@ C:\WP 8 opds reader\FBReader.DataModel\bin\Debug_Reading\zh-Hant\System.Windows.
 C:\WP 8 opds reader\FBReader.DataModel\obj\Debug_Reading\FBReader.DataModel.csprojResolveAssemblyReference.cache
 C:\WP 8 opds reader\FBReader.DataModel\obj\Debug_Reading\FBReader.DataModel.dll
 C:\WP 8 opds reader\FBReader.DataModel\obj\Debug_Reading\FBReader.DataModel.pdb
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\FBReader.DataModel.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\FBReader.DataModel.pdb
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\FBReader.Common.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\FBReader.Localization.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\FBReader.Settings.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\Microsoft.Live.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\Caliburn.Micro.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\FBReader.PhoneServices.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\System.Windows.Interactivity.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\FBReader.Common.pdb
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\FBReader.Localization.pdb
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\FBReader.Settings.pdb
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\Microsoft.Live.pdb
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\Caliburn.Micro.pdb
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\Caliburn.Micro.xml
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\FBReader.PhoneServices.pdb
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\ru\FBReader.Localization.resources.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\de\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\en\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\es\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\fr\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\it\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\ja\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\ko\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\ru\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.DataModel\bin\Debug_Reading\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.DataModel\obj\Debug_Reading\FBReader.DataModel.csprojResolveAssemblyReference.cache
+C:\Читай 2\FBReader.DataModel\obj\Debug_Reading\FBReader.DataModel.dll
+C:\Читай 2\FBReader.DataModel\obj\Debug_Reading\FBReader.DataModel.pdb

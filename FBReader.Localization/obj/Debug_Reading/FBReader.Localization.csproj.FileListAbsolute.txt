@@ -82,3 +82,31 @@ C:\WP 8 opds reader\FBReader.Localization\obj\Debug_Reading\FBReader.Localizatio
 C:\WP 8 opds reader\FBReader.Localization\obj\Debug_Reading\ru\FBReader.Localization.resources.dll
 C:\WP 8 opds reader\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.dll
 C:\WP 8 opds reader\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.pdb
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\FBReader.Localization.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\FBReader.Localization.pdb
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\ru\FBReader.Localization.resources.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\Caliburn.Micro.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\System.Windows.Interactivity.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\Caliburn.Micro.pdb
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\Caliburn.Micro.xml
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\de\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\en\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\es\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\fr\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\it\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\ja\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\ko\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\ru\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.Localization\bin\Debug_Reading\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Читай 2\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.csprojResolveAssemblyReference.cache
+C:\Читай 2\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.UINotifications.resources
+C:\Читай 2\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.UISettings.resources
+C:\Читай 2\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.UIStrings.resources
+C:\Читай 2\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.UINotifications.ru.resources
+C:\Читай 2\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.UISettings.ru.resources
+C:\Читай 2\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.UIStrings.ru.resources
+C:\Читай 2\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.csproj.GenerateResource.Cache
+C:\Читай 2\FBReader.Localization\obj\Debug_Reading\ru\FBReader.Localization.resources.dll
+C:\Читай 2\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.dll
+C:\Читай 2\FBReader.Localization\obj\Debug_Reading\FBReader.Localization.pdb

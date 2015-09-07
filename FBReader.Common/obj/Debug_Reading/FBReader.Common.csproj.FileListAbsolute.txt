@@ -19,3 +19,10 @@ C:\WP 8 opds reader\FBReader.Common\bin\Debug_Reading\Microsoft.Live.pdb
 C:\WP 8 opds reader\FBReader.Common\obj\Debug_Reading\FBReader.Common.csprojResolveAssemblyReference.cache
 C:\WP 8 opds reader\FBReader.Common\obj\Debug_Reading\FBReader.Common.dll
 C:\WP 8 opds reader\FBReader.Common\obj\Debug_Reading\FBReader.Common.pdb
+C:\Читай 2\FBReader.Common\bin\Debug_Reading\FBReader.Common.dll
+C:\Читай 2\FBReader.Common\bin\Debug_Reading\FBReader.Common.pdb
+C:\Читай 2\FBReader.Common\bin\Debug_Reading\Microsoft.Live.dll
+C:\Читай 2\FBReader.Common\bin\Debug_Reading\Microsoft.Live.pdb
+C:\Читай 2\FBReader.Common\obj\Debug_Reading\FBReader.Common.csprojResolveAssemblyReference.cache
+C:\Читай 2\FBReader.Common\obj\Debug_Reading\FBReader.Common.dll
+C:\Читай 2\FBReader.Common\obj\Debug_Reading\FBReader.Common.pdb

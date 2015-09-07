@@ -120,3 +120,44 @@ C:\WP 8 opds reader\FBReader.Render\bin\Debug_Reading\zh-Hant\System.Xml.XPath.r
 C:\WP 8 opds reader\FBReader.Render\obj\Debug_Reading\FBReader.Render.csprojResolveAssemblyReference.cache
 C:\WP 8 opds reader\FBReader.Render\obj\Debug_Reading\FBReader.Render.dll
 C:\WP 8 opds reader\FBReader.Render\obj\Debug_Reading\FBReader.Render.pdb
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.Render.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.Render.pdb
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.Common.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.DataModel.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.IO.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.Settings.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.Tokenizer.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\Microsoft.Live.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\SharpZipLib.WindowsPhone7.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\System.Net.Http.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\System.Net.Http.Primitives.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.PhoneServices.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\HtmlAgilityPack.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.Hyphen.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\ExCss.WP.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\System.Xml.XPath.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.Common.pdb
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.DataModel.pdb
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.IO.pdb
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.Settings.pdb
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.Tokenizer.pdb
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\Microsoft.Live.pdb
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\System.Net.Http.xml
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\System.Net.Http.Primitives.xml
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.PhoneServices.pdb
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\HtmlAgilityPack.pdb
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\HtmlAgilityPack.xml
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\FBReader.Hyphen.pdb
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\System.Xml.XPath.xml
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\de\System.Xml.XPath.resources.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\es\System.Xml.XPath.resources.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\fr\System.Xml.XPath.resources.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\it\System.Xml.XPath.resources.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\ja\System.Xml.XPath.resources.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\ko\System.Xml.XPath.resources.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\ru\System.Xml.XPath.resources.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\zh-Hans\System.Xml.XPath.resources.dll
+C:\Читай 2\FBReader.Render\bin\Debug_Reading\zh-Hant\System.Xml.XPath.resources.dll
+C:\Читай 2\FBReader.Render\obj\Debug_Reading\FBReader.Render.csprojResolveAssemblyReference.cache
+C:\Читай 2\FBReader.Render\obj\Debug_Reading\FBReader.Render.dll
+C:\Читай 2\FBReader.Render\obj\Debug_Reading\FBReader.Render.pdb

@@ -48,3 +48,20 @@ C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\zh-Hant\System
 C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8\obj\Debug_Reading\Caliburn.Micro.WP8.csprojResolveAssemblyReference.cache
 C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8\obj\Debug_Reading\Caliburn.Micro.dll
 C:\WP 8 opds reader\Caliburn\Caliburn.Micro.WP8\obj\Debug_Reading\Caliburn.Micro.pdb
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\Caliburn.Micro.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\Caliburn.Micro.pdb
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\Caliburn.Micro.xml
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\System.Windows.Interactivity.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\de\System.Windows.Interactivity.resources.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\en\System.Windows.Interactivity.resources.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\es\System.Windows.Interactivity.resources.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\fr\System.Windows.Interactivity.resources.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\it\System.Windows.Interactivity.resources.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\ja\System.Windows.Interactivity.resources.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\ko\System.Windows.Interactivity.resources.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\ru\System.Windows.Interactivity.resources.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\bin\Debug_Reading\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\obj\Debug_Reading\Caliburn.Micro.WP8.csprojResolveAssemblyReference.cache
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\obj\Debug_Reading\Caliburn.Micro.dll
+C:\Читай 2\Caliburn\Caliburn.Micro.WP8\obj\Debug_Reading\Caliburn.Micro.pdb
